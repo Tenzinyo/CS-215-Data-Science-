@@ -1,0 +1,562 @@
+Entity,Code,Year,Relative change in maternal mortality ratio since 1990,Continent
+Abkhazia,OWID_ABK,2015,,Asia
+Afghanistan,AFG,1990,0,
+Afghanistan,AFG,2015,-70.44776119,Asia
+Akrotiri and Dhekelia,OWID_AKD,2015,,Asia
+Albania,ALB,1990,0,
+Albania,ALB,2015,-59.15492958,Europe
+Algeria,DZA,1990,0,
+Algeria,DZA,2015,-35.18518519,Africa
+American Samoa,ASM,2015,,Oceania
+Andorra,AND,2015,,Europe
+Angola,AGO,1990,0,
+Angola,AGO,2015,-58.87931034,Africa
+Anguilla,AIA,2015,,North America
+Antarctica,ATA,2015,,Antarctica
+Antigua and Barbuda,ATG,2015,,North America
+Arab World,,1990,0,
+Arab World,,2015,-46.02076125,
+Argentina,ARG,1990,0,
+Argentina,ARG,2015,-27.77777778,South America
+Armenia,ARM,1990,0,
+Armenia,ARM,2015,-56.89655172,Asia
+Aruba,ABW,2015,,North America
+Australia,AUS,1990,0,
+Australia,AUS,2015,-25,Oceania
+Austria,AUT,1990,0,
+Austria,AUT,2015,-50,Europe
+Austria-Hungary,OWID_AUH,2015,,Europe
+Azerbaijan,AZE,1990,0,
+Azerbaijan,AZE,2015,-60.9375,Asia
+Baden,OWID_BAD,2015,,Europe
+Bahamas,BHS,1990,0,
+Bahamas,BHS,2015,73.91304348,North America
+Bahrain,BHR,1990,0,
+Bahrain,BHR,2015,-42.30769231,Asia
+Bangladesh,BGD,1990,0,
+Bangladesh,BGD,2015,-69.0685413,Asia
+Barbados,BRB,1990,0,
+Barbados,BRB,2015,-53.44827586,North America
+Bavaria,OWID_BAV,2015,,Europe
+Belarus,BLR,1990,0,
+Belarus,BLR,2015,-87.87878788,Europe
+Belgium,BEL,1990,0,
+Belgium,BEL,2015,-22.22222222,Europe
+Belize,BLZ,1990,0,
+Belize,BLZ,2015,-48.14814815,North America
+Benin,BEN,1990,0,
+Benin,BEN,2015,-29.6875,Africa
+Bermuda,BMU,2015,,North America
+Bhutan,BTN,1990,0,
+Bhutan,BTN,2015,-84.33862434,Asia
+Bolivia,BOL,1990,0,
+Bolivia,BOL,2015,-51.52941176,South America
+Bonaire Sint Eustatius and Saba,BES,2015,,North America
+Bosnia and Herzegovina,BIH,1990,0,
+Bosnia and Herzegovina,BIH,2015,-60.71428571,Europe
+Botswana,BWA,1990,0,
+Botswana,BWA,2015,-46.91358025,Africa
+Bouvet Island,BVT,2015,,Antarctica
+Brazil,BRA,1990,0,
+Brazil,BRA,2015,-57.69230769,South America
+British Indian Ocean Territory,IOT,2015,,Asia
+British Virgin Islands,VGB,2015,,North America
+Brunei,BRN,1990,0,
+Brunei,BRN,2015,-34.28571429,Asia
+Bulgaria,BGR,1990,0,
+Bulgaria,BGR,2015,-56,Europe
+Burkina Faso,BFA,1990,0,
+Burkina Faso,BFA,2015,-48.96836314,Africa
+Burundi,BDI,1990,0,
+Burundi,BDI,2015,-41.63934426,Africa
+Cambodia,KHM,1990,0,
+Cambodia,KHM,2015,-84.21568627,Asia
+Cameroon,CMR,1990,0,
+Cameroon,CMR,2015,-18.13186813,Africa
+Canada,CAN,1990,0,
+Canada,CAN,2015,0,North America
+Cape Verde,CPV,1990,0,
+Cape Verde,CPV,2015,-83.59375,Africa
+Caribbean small states,,1990,0,
+Caribbean small states,,2015,5.319148936,
+Cayman Islands,CYM,2015,,North America
+Central African Republic,CAF,1990,0,
+Central African Republic,CAF,2015,-31.62790698,Africa
+Central Europe and the Baltics,,1990,0,
+Central Europe and the Baltics,,2015,-73.17073171,
+Chad,TCD,1990,0,
+Chad,TCD,2015,-40.96551724,Africa
+Channel Islands,OWID_CIS,2015,,Europe
+Chile,CHL,1990,0,
+Chile,CHL,2015,-61.40350877,South America
+China,CHN,1990,0,
+China,CHN,2015,-72.16494845,Asia
+Christmas Island,CXR,2015,,Asia
+Cocos Islands,CCK,2015,,Asia
+Colombia,COL,1990,0,
+Colombia,COL,2015,-45.76271186,South America
+Comoros,COM,1990,0,
+Comoros,COM,2015,-47.24409449,Africa
+Congo,COG,1990,0,
+Congo,COG,2015,-26.69983416,Africa
+Cook Islands,COK,2015,,Oceania
+Costa Rica,CRI,1990,0,
+Costa Rica,CRI,2015,-41.86046512,North America
+Cote d'Ivoire,CIV,1990,0,
+Cote d'Ivoire,CIV,2015,-13.42281879,Africa
+Croatia,HRV,1990,0,
+Croatia,HRV,2015,-20,Europe
+Cuba,CUB,1990,0,
+Cuba,CUB,2015,-32.75862069,North America
+Curacao,CUW,2015,,North America
+Cyprus,CYP,1990,0,
+Cyprus,CYP,2015,-56.25,Europe
+Czechia,CZE,1990,0,
+Czechia,CZE,2015,-71.42857143,Europe
+Czechoslovakia,OWID_CZS,2015,,Europe
+Democratic Republic of Congo,COD,1990,0,
+Democratic Republic of Congo,COD,2015,-21.16040956,Africa
+Denmark,DNK,1990,0,
+Denmark,DNK,2015,-45.45454545,Europe
+Djibouti,DJI,1990,0,
+Djibouti,DJI,2015,-55.70599613,Africa
+Dominica,DMA,2015,,North America
+Dominican Republic,DOM,1990,0,
+Dominican Republic,DOM,2015,-53.53535354,North America
+Early-demographic dividend,,1990,0,
+Early-demographic dividend,,2015,-65.13157895,
+East Asia & Pacific,,1990,0,
+East Asia & Pacific,,2015,-62.89308176,
+East Asia & Pacific (IDA & IBRD),,1990,0,
+East Asia & Pacific (IDA & IBRD),,2015,-62.72189349,
+East Asia & Pacific (excluding high income),,1990,0,
+East Asia & Pacific (excluding high income),,2015,-62.5,
+East Germany,OWID_GDR,2015,,Europe
+Ecuador,ECU,1990,0,
+Ecuador,ECU,2015,-65.40540541,South America
+Egypt,EGY,1990,0,
+Egypt,EGY,2015,-68.86792453,Africa
+El Salvador,SLV,1990,0,
+El Salvador,SLV,2015,-65.60509554,North America
+Equatorial Guinea,GNQ,1990,0,
+Equatorial Guinea,GNQ,2015,-73.89312977,Africa
+Eritrea,ERI,1990,0,
+Eritrea,ERI,2015,-68.49056604,Africa
+Eritrea and Ethiopia,OWID_ERE,2015,,Africa
+Estonia,EST,1990,0,
+Estonia,EST,2015,-78.57142857,Europe
+Eswatini,SWZ,1990,0,
+Eswatini,SWZ,2015,-38.74015748,Africa
+Ethiopia,ETH,1990,0,
+Ethiopia,ETH,2015,-71.76,Africa
+Euro area,,1990,0,
+Euro area,,2015,-45.45454545,
+Europe & Central Asia,,1990,0,
+Europe & Central Asia,,2015,-63.63636364,
+Europe & Central Asia (IDA & IBRD),,1990,0,
+Europe & Central Asia (IDA & IBRD),,2015,-65.15151515,
+Europe & Central Asia (excluding high income),,1990,0,
+Europe & Central Asia (excluding high income),,2015,-64.28571429,
+European Union,,1990,0,
+European Union,,2015,-55.55555556,
+Faeroe Islands,FRO,2015,,Europe
+Falkland Islands,FLK,2015,,South America
+Fiji,FJI,1990,0,
+Fiji,FJI,2015,-52.38095238,Oceania
+Finland,FIN,1990,0,
+Finland,FIN,2015,-50,Europe
+Fragile and conflict affected situations,,1990,0,
+Fragile and conflict affected situations,,2015,-40.32663317,
+France,FRA,1990,0,
+France,FRA,2015,-46.66666667,Europe
+French Guiana,GUF,2015,,South America
+French Polynesia,PYF,2015,,Oceania
+French Southern Territories,ATF,2015,,Antarctica
+Gabon,GAB,1990,0,
+Gabon,GAB,2015,-31.04265403,Africa
+Gambia,GMB,1990,0,
+Gambia,GMB,2015,-31.45631068,Africa
+Georgia,GEO,1990,0,
+Georgia,GEO,2015,5.882352941,Asia
+Germany,DEU,1990,0,
+Germany,DEU,2015,-45.45454545,Europe
+Ghana,GHA,1990,0,
+Ghana,GHA,2015,-49.68454259,Africa
+Gibraltar,GIB,2015,,Europe
+Greece,GRC,1990,0,
+Greece,GRC,2015,-40,Europe
+Greenland,GRL,2015,,North America
+Grenada,GRD,1990,0,
+Grenada,GRD,2015,-34.14634146,North America
+Guadeloupe,GLP,2015,,North America
+Guam,GUM,2015,,Oceania
+Guatemala,GTM,1990,0,
+Guatemala,GTM,2015,-57.07317073,North America
+Guernsey,GGY,2015,,Europe
+Guinea,GIN,1990,0,
+Guinea,GIN,2015,-34.71153846,Africa
+Guinea-Bissau,GNB,1990,0,
+Guinea-Bissau,GNB,2015,-39.4707828,Africa
+Guyana,GUY,1990,0,
+Guyana,GUY,2015,33.91812865,South America
+Haiti,HTI,1990,0,
+Haiti,HTI,2015,-42.56,North America
+Hanover,OWID_HAN,2015,,Europe
+Heard Island and McDonald Islands,HMD,2015,,Antarctica
+Heavily indebted poor countries (HIPC),,1990,0,
+Heavily indebted poor countries (HIPC),,2015,-49.63427377,
+Hesse Electoral,OWID_HSE,2015,,Europe
+Hesse Grand Ducal,OWID_HSG,2015,,Europe
+High income,,1990,0,
+High income,,2015,-27.77777778,
+Honduras,HND,1990,0,
+Honduras,HND,2015,-52.57352941,North America
+Hong Kong,HKG,2015,,Asia
+Hungary,HUN,1990,0,
+Hungary,HUN,2015,-29.16666667,Europe
+IBRD only,,1990,0,
+IBRD only,,2015,-62.82527881,
+IDA & IBRD total,,1990,0,
+IDA & IBRD total,,2015,-44.33962264,
+IDA blend,,1990,0,
+IDA blend,,2015,-34.79381443,
+IDA only,,1990,0,
+IDA only,,2015,-50,
+IDA total,,1990,0,
+IDA total,,2015,-45.14563107,
+Iceland,ISL,1990,0,
+Iceland,ISL,2015,-57.14285714,Europe
+India,IND,1990,0,
+India,IND,2015,-68.70503597,Asia
+Indonesia,IDN,1990,0,
+Indonesia,IDN,2015,-71.74887892,Asia
+Iran,IRN,1990,0,
+Iran,IRN,2015,-79.67479675,Asia
+Iraq,IRQ,1990,0,
+Iraq,IRQ,2015,-53.27102804,Asia
+Ireland,IRL,1990,0,
+Ireland,IRL,2015,-27.27272727,Europe
+Isle of Man,IMN,2015,,Europe
+Israel,ISR,1990,0,
+Israel,ISR,2015,-54.54545455,Asia
+Italy,ITA,1990,0,
+Italy,ITA,2015,-50,Europe
+Jamaica,JAM,1990,0,
+Jamaica,JAM,2015,12.65822785,North America
+Japan,JPN,1990,0,
+Japan,JPN,2015,-64.28571429,Asia
+Jersey,JEY,2015,,Europe
+Jordan,JOR,1990,0,
+Jordan,JOR,2015,-47.27272727,Asia
+Kazakhstan,KAZ,1990,0,
+Kazakhstan,KAZ,2015,-84.61538462,Asia
+Kenya,KEN,1990,0,
+Kenya,KEN,2015,-25.76419214,Africa
+Kiribati,KIR,1990,0,
+Kiribati,KIR,2015,-61.53846154,Oceania
+Kosovo,OWID_KOS,2015,,Europe
+Kuwait,KWT,1990,0,
+Kuwait,KWT,2015,-42.85714286,Asia
+Kyrgyzstan,KGZ,1990,0,
+Kyrgyzstan,KGZ,2015,-5,Asia
+Laos,LAO,1990,0,
+Laos,LAO,2015,-78.2320442,Asia
+Late-demographic dividend,,1990,0,
+Late-demographic dividend,,2015,-64.94845361,
+Latin America & Caribbean,,1990,0,
+Latin America & Caribbean,,2015,-50.37037037,
+Latin America & Caribbean (IDA & IBRD),,1990,0,
+Latin America & Caribbean (IDA & IBRD),,2015,-50,
+Latin America & Caribbean (excluding high income),,1990,0,
+Latin America & Caribbean (excluding high income),,2015,-50.70422535,
+Latvia,LVA,1990,0,
+Latvia,LVA,2015,-62.5,Europe
+Least developed countries: UN classification,,1990,0,
+Least developed countries: UN classification,,2015,-51.71650055,
+Lebanon,LBN,1990,0,
+Lebanon,LBN,2015,-79.72972973,Asia
+Lesotho,LSO,1990,0,
+Lesotho,LSO,2015,-22.57551669,Africa
+Liberia,LBR,1990,0,
+Liberia,LBR,2015,-51.66666667,Africa
+Libya,LBY,1990,0,
+Libya,LBY,2015,-76.92307692,Africa
+Liechtenstein,LIE,2015,,Europe
+Lithuania,LTU,1990,0,
+Lithuania,LTU,2015,-65.51724138,Europe
+Low & middle income,,1990,0,
+Low & middle income,,2015,-44.39252336,
+Low income,,1990,0,
+Low income,,2015,-49.79035639,
+Lower middle income,,1990,0,
+Lower middle income,,2015,-52.8440367,
+Luxembourg,LUX,1990,0,
+Luxembourg,LUX,2015,-16.66666667,Europe
+Macao,MAC,2015,,Asia
+Madagascar,MDG,1990,0,
+Madagascar,MDG,2015,-54.62724936,Africa
+Malawi,MWI,1990,0,
+Malawi,MWI,2015,-33.75130617,Africa
+Malaysia,MYS,1990,0,
+Malaysia,MYS,2015,-49.36708861,Asia
+Maldives,MDV,1990,0,
+Maldives,MDV,2015,-89.95568685,Asia
+Mali,MLI,1990,0,
+Mali,MLI,2015,-41.88118812,Africa
+Malta,MLT,1990,0,
+Malta,MLT,2015,-30.76923077,Europe
+Marshall Islands,MHL,2015,,Oceania
+Martinique,MTQ,2015,,North America
+Mauritania,MRT,1990,0,
+Mauritania,MRT,2015,-29.9185099,Africa
+Mauritius,MUS,1990,0,
+Mauritius,MUS,2015,-34.56790123,Africa
+Mayotte,MYT,2015,,Africa
+Mecklenburg Schwerin,OWID_MEC,2015,,Europe
+Mexico,MEX,1990,0,
+Mexico,MEX,2015,-57.77777778,North America
+Micronesia (country),FSM,1990,0,
+Micronesia (country),FSM,2015,-45.35519126,Oceania
+Middle East & North Africa,,1990,0,
+Middle East & North Africa,,2015,-51.20481928,
+Middle East & North Africa (IDA & IBRD),,1990,0,
+Middle East & North Africa (IDA & IBRD),,2015,-50,
+Middle East & North Africa (excluding high income),,1990,0,
+Middle East & North Africa (excluding high income),,2015,-50.27624309,
+Middle income,,1990,0,
+Middle income,,2015,-48.71794872,
+Modena,OWID_MOD,2015,,Europe
+Moldova,MDA,1990,0,
+Moldova,MDA,2015,-54.90196078,Europe
+Monaco,MCO,2015,,Europe
+Mongolia,MNG,1990,0,
+Mongolia,MNG,2015,-76.34408602,Asia
+Montenegro,MNE,1990,0,
+Montenegro,MNE,2015,-30,Europe
+Montserrat,MSR,2015,,North America
+Morocco,MAR,1990,0,
+Morocco,MAR,2015,-61.829653,Africa
+Mozambique,MOZ,1990,0,
+Mozambique,MOZ,2015,-64.82014388,Africa
+Myanmar,MMR,1990,0,
+Myanmar,MMR,2015,-60.70640177,Asia
+Nagorno-Karabakh,OWID_NAG,2015,,Asia
+Namibia,NAM,1990,0,
+Namibia,NAM,2015,-21.59763314,Africa
+Nauru,NRU,2015,,Oceania
+Nepal,NPL,1990,0,
+Nepal,NPL,2015,-71.36514983,Asia
+Netherlands,NLD,1990,0,
+Netherlands,NLD,2015,-41.66666667,Europe
+Netherlands Antilles,ANT,2015,,North America
+New Caledonia,NCL,2015,,Oceania
+New Zealand,NZL,1990,0,
+New Zealand,NZL,2015,-38.88888889,Oceania
+Nicaragua,NIC,1990,0,
+Nicaragua,NIC,2015,-13.29479769,North America
+Niger,NER,1990,0,
+Niger,NER,2015,-36.65521191,Africa
+Nigeria,NGA,1990,0,
+Nigeria,NGA,2015,-39.7037037,Africa
+Niue,NIU,2015,,Oceania
+Norfolk Island,NFK,2015,,Oceania
+North America,,1990,0,
+North America,,2015,18.18181818,
+North Korea,PRK,1990,0,
+North Korea,PRK,2015,9.333333333,Asia
+North Macedonia,MKD,1990,0,
+North Macedonia,MKD,2015,-42.85714286,Europe
+Northern Cyprus,OWID_CYN,2015,,Asia
+Northern Mariana Islands,MNP,2015,,Oceania
+Norway,NOR,1990,0,
+Norway,NOR,2015,-28.57142857,Europe
+OECD members,,1990,0,
+OECD members,,2015,-56.25,
+Oman,OMN,1990,0,
+Oman,OMN,2015,-43.33333333,Asia
+Other small states,,1990,0,
+Other small states,,2015,-41.26394052,
+Pacific island small states,,1990,0,
+Pacific island small states,,2015,-57.38636364,
+Pakistan,PAK,1990,0,
+Pakistan,PAK,2015,-58.70069606,Asia
+Palau,PLW,2015,,Oceania
+Palestine,PSE,1990,0,
+Palestine,PSE,2015,-61.86440678,Asia
+Panama,PAN,1990,0,
+Panama,PAN,2015,-7.843137255,North America
+Papua New Guinea,PNG,1990,0,
+Papua New Guinea,PNG,2015,-54.25531915,Oceania
+Paraguay,PRY,1990,0,
+Paraguay,PRY,2015,-12,South America
+Parma,OWID_PMA,2015,,Europe
+Peru,PER,1990,0,
+Peru,PER,2015,-72.90836653,South America
+Philippines,PHL,1990,0,
+Philippines,PHL,2015,-25,Asia
+Pitcairn,PCN,2015,,Oceania
+Poland,POL,1990,0,
+Poland,POL,2015,-82.35294118,Europe
+Portugal,PRT,1990,0,
+Portugal,PRT,2015,-41.17647059,Europe
+Post-demographic dividend,,1990,0,
+Post-demographic dividend,,2015,-33.33333333,
+Pre-demographic dividend,,1990,0,
+Pre-demographic dividend,,2015,-43.76237624,
+Puerto Rico,PRI,1990,0,
+Puerto Rico,PRI,2015,-46.15384615,North America
+Qatar,QAT,1990,0,
+Qatar,QAT,2015,-55.17241379,Asia
+Republic of Vietnam,OWID_RVN,2015,,Asia
+Reunion,REU,2015,,Africa
+Romania,ROU,1990,0,
+Romania,ROU,2015,-75,Europe
+Russia,RUS,1990,0,
+Russia,RUS,2015,-60.31746032,Europe
+Rwanda,RWA,1990,0,
+Rwanda,RWA,2015,-77.69230769,Africa
+Saint Barthélemy,BLM,2015,,North America
+Saint Helena,SHN,2015,,Africa
+Saint Kitts and Nevis,KNA,2015,,North America
+Saint Lucia,LCA,1990,0,
+Saint Lucia,LCA,2015,6.666666667,North America
+Saint Martin (French part),MAF,2015,,North America
+Saint Pierre and Miquelon,SPM,2015,,North America
+Saint Vincent and the Grenadines,VCT,1990,0,
+Saint Vincent and the Grenadines,VCT,2015,-22.4137931,North America
+Samoa,WSM,1990,0,
+Samoa,WSM,2015,-67.30769231,Oceania
+San Marino,SMR,2015,,Europe
+Sao Tome and Principe,STP,1990,0,
+Sao Tome and Principe,STP,2015,-52.72727273,Africa
+Saudi Arabia,SAU,1990,0,
+Saudi Arabia,SAU,2015,-73.91304348,Asia
+Saxony,OWID_SAX,2015,,Europe
+Senegal,SEN,1990,0,
+Senegal,SEN,2015,-41.66666667,Africa
+Serbia,SRB,1990,0,
+Serbia,SRB,2015,21.42857143,Europe
+Serbia and Montenegro,OWID_SRM,2015,,Europe
+Serbia excluding Kosovo,OWID_SEK,2015,,Europe
+Seychelles,SYC,2015,,Africa
+Sierra Leone,SLE,1990,0,
+Sierra Leone,SLE,2015,-48.28897338,Africa
+Singapore,SGP,1990,0,
+Singapore,SGP,2015,-16.66666667,Asia
+Sint Maarten (Dutch part),SXM,2015,,North America
+Slovakia,SVK,1990,0,
+Slovakia,SVK,2015,-45.45454545,Europe
+Slovenia,SVN,1990,0,
+Slovenia,SVN,2015,-25,Europe
+Small states,,1990,0,
+Small states,,2015,-36.44859813,
+Solomon Islands,SLB,1990,0,
+Solomon Islands,SLB,2015,-68.68131868,Oceania
+Somalia,SOM,1990,0,
+Somalia,SOM,2015,-39.50413223,Africa
+Somaliland,OWID_SML,2015,,Africa
+South Africa,ZAF,1990,0,
+South Africa,ZAF,2015,27.77777778,Africa
+South Asia,,1990,0,
+South Asia,,2015,-67.38351254,
+South Asia (IDA & IBRD),,1990,0,
+South Asia (IDA & IBRD),,2015,-67.38351254,
+South Georgia and the South Sandwich Islands,SGS,2015,,South America
+South Korea,KOR,1990,0,
+South Korea,KOR,2015,-47.61904762,Asia
+South Ossetia,OWID_SOS,2015,,Asia
+South Sudan,SSD,1990,0,
+South Sudan,SSD,2015,-54.39306358,Africa
+Spain,ESP,1990,0,
+Spain,ESP,2015,-16.66666667,Europe
+Sri Lanka,LKA,1990,0,
+Sri Lanka,LKA,2015,-60,Asia
+Sub-Saharan Africa,,1990,0,
+Sub-Saharan Africa,,2015,-44.57953394,
+Sub-Saharan Africa (IDA & IBRD),,1990,0,
+Sub-Saharan Africa (IDA & IBRD),,2015,-44.57953394,
+Sub-Saharan Africa (excluding high income),,1990,0,
+Sub-Saharan Africa (excluding high income),,2015,-44.57953394,
+Sudan,SDN,1990,0,
+Sudan,SDN,2015,-58.19892473,Africa
+Suriname,SUR,1990,0,
+Suriname,SUR,2015,22.04724409,South America
+Svalbard and Jan Mayen,SJM,2015,,Europe
+Sweden,SWE,1990,0,
+Sweden,SWE,2015,-50,Europe
+Switzerland,CHE,1990,0,
+Switzerland,CHE,2015,-37.5,Europe
+Syria,SYR,2015,,Asia
+Syrian Arab Republic,,1990,0,
+Syrian Arab Republic,,2015,-44.71544715,
+Taiwan,TWN,2015,,Asia
+Tajikistan,TJK,1990,0,
+Tajikistan,TJK,2015,-70.09345794,Asia
+Tanzania,TZA,1990,0,
+Tanzania,TZA,2015,-60.08024072,Africa
+Thailand,THA,1990,0,
+Thailand,THA,2015,-50,Asia
+Timor,TLS,1990,0,
+Timor,TLS,2015,-80.09259259,Asia
+Togo,TGO,1990,0,
+Togo,TGO,2015,-35.21126761,Africa
+Tokelau,TKL,2015,,Oceania
+Tonga,TON,1990,0,
+Tonga,TON,2015,65.33333333,Oceania
+Transnistria,OWID_TRS,2015,,Europe
+Trinidad and Tobago,TTO,1990,0,
+Trinidad and Tobago,TTO,2015,-30,North America
+Tunisia,TUN,1990,0,
+Tunisia,TUN,2015,-52.67175573,Africa
+Turkey,TUR,1990,0,
+Turkey,TUR,2015,-83.50515464,Asia
+Turkmenistan,TKM,1990,0,
+Turkmenistan,TKM,2015,-48.7804878,Asia
+Turks and Caicos Islands,TCA,2015,,North America
+Tuscany,OWID_TUS,2015,,Europe
+Tuvalu,TUV,2015,,Oceania
+Two Sicilies,OWID_SIC,2015,,Europe
+USSR,OWID_USS,2015,,Europe
+Uganda,UGA,1990,0,
+Uganda,UGA,2015,-50.0727802,Africa
+Ukraine,UKR,1990,0,
+Ukraine,UKR,2015,-47.82608696,Europe
+United Arab Emirates,ARE,1990,0,
+United Arab Emirates,ARE,2015,-64.70588235,Asia
+United Kingdom,GBR,1990,0,
+United Kingdom,GBR,2015,-10,Europe
+United Korea,OWID_KRU,2015,,Asia
+United States,USA,1990,0,
+United States,USA,2015,16.66666667,North America
+United States Minor Outlying Islands,UMI,2015,,Oceania
+United States Virgin Islands,VIR,2015,,North America
+Upper middle income,,1990,0,
+Upper middle income,,2015,-59.80392157,
+Uruguay,URY,1990,0,
+Uruguay,URY,2015,-59.45945946,South America
+Uzbekistan,UZB,1990,0,
+Uzbekistan,UZB,2015,-33.33333333,Asia
+Vanuatu,VUT,1990,0,
+Vanuatu,VUT,2015,-65.33333333,Oceania
+Vatican,VAT,2015,,Europe
+Venezuela,VEN,1990,0,
+Venezuela,VEN,2015,1.063829787,South America
+Vietnam,VNM,1990,0,
+Vietnam,VNM,2015,-61.15107914,Asia
+Wallis and Futuna,WLF,2015,,Oceania
+West Germany,OWID_GFR,2015,,Europe
+Western Sahara,ESH,2015,,Africa
+World,OWID_WRL,1990,0,
+World,OWID_WRL,2015,-43.8961039,
+Wuerttemburg,OWID_WRT,2015,,Europe
+Yemen,YEM,1990,0,
+Yemen,YEM,2015,-29.61608775,Asia
+Yemen Arab Republic,OWID_YAR,2015,,Asia
+Yemen People's Republic,OWID_YPR,2015,,Asia
+Yugoslavia,OWID_YGS,2015,,Europe
+Zambia,ZMB,1990,0,
+Zambia,ZMB,2015,-61.17850953,Africa
+Zanzibar,OWID_ZAN,2015,,Africa
+Zimbabwe,ZWE,1990,0,
+Zimbabwe,ZWE,2015,0.681818182,Africa
+Åland Islands,ALA,2015,,Europe
